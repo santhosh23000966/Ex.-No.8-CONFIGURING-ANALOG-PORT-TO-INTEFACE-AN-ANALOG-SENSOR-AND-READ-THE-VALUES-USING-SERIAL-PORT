@@ -278,7 +278,7 @@ void Error_Handler(void)
  
 ## Output  :
 
-![Uploading image.png…]()
+<img width="1079" height="1280" alt="image" src="https://github.com/user-attachments/assets/6ae66380-04a9-4229-9df0-6b9bccf3bc72" />
 
 <img width="1280" height="678" alt="image" src="https://github.com/user-attachments/assets/0a19b98d-0e2e-4d99-86bb-13bea6f25028" />
 
